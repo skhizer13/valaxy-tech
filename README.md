@@ -1,1 +1,3 @@
-# valaxy-tech
+# maven-project
+
+Simple Maven Project
